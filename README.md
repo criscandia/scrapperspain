@@ -1,7 +1,5 @@
 
 
-¡Claro! Aquí te dejo el README en Markdown:
-
 # ScrapperSpain
 ================
 
